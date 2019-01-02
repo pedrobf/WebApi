@@ -1,0 +1,10 @@
+/home/pedro/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/home/pedro/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/home/pedro/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/home/pedro/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/home/pedro/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/home/pedro/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/home/pedro/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/home/pedro/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/home/pedro/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/home/pedro/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
